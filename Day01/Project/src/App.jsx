@@ -1,8 +1,11 @@
 import React from 'react'
+import Welcome from './component/Welcome'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <Welcome /> 
+    </>
   )
 }
 
