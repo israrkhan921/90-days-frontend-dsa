@@ -1,8 +1,35 @@
-# 90 Days of Frontend + DSA
+# Day 1 – Arrays & React Basics 🚀
 
-Daily learning journey covering:
-- DSA in JavaScript
-- React from basics to advanced
-- Real-world frontend projects
+This repository contains **Day 1** of my **90-Day Frontend Developer Journey**.
 
-# Goal: Land a remote frontend role.
+---
+
+## 📌 Day 1 Focus
+
+### 🔹 DSA
+- Array basics
+- Array traversal using loops
+
+---
+
+### 🔹 React
+- Project setup
+- JSX basics
+- Rendering **Hello World**
+
+---
+
+### 🔹 Project
+- Created project folder
+- Built a basic React component
+
+---
+
+## 🧠 What I Practiced
+- Understanding how arrays work
+- Traversing arrays using JavaScript
+- Writing JSX in React
+- Rendering components on the screen
+
+---
+
