@@ -6,10 +6,7 @@ function sumOfArray(arr) {
     }
     return sum;     
 }
-
 sumOfArray([1, 2, 3, 4, 5]); // returns 15
-
-
 
 
 
@@ -27,6 +24,5 @@ function minMaxOfArray(arr) {
     }
     return { min, max };
 }
-
 minMaxOfArray([3, 1, 4, 1, 5, 9, 2, 6]); // returns { min: 1, max: 9 }
 
