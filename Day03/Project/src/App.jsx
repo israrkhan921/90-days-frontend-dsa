@@ -1,8 +1,11 @@
 import React from 'react'
+import CounterWithHistory from './components/CounterWithHistory'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <CounterWithHistory />
+    </div>
   )
 }
 
