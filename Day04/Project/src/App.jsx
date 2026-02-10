@@ -1,8 +1,11 @@
 import React from 'react'
+import ArrayTool from './components/ArrayTool'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <ArrayTool />
+    </div>
   )
 }
 
