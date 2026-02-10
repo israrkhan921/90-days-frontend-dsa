@@ -1,10 +1,10 @@
 import React from 'react'
-import CounterWithHistory from './components/CounterWithHistory'
+import ArrayTool from './components/ArrayTool'
 
 const App = () => {
   return (
     <div>
-      <CounterWithHistory />
+      <ArrayTool />
     </div>
   )
 }
