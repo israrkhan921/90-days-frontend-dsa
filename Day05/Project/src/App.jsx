@@ -1,10 +1,10 @@
 import React from 'react'
-import ArrayTool from './components/ArrayTool'
+import ArrayTool2 from './components/ArrayTool2'
 
 const App = () => {
   return (
     <div>
-      <ArrayTool />
+      <ArrayTool2/>
     </div>
   )
 }
