@@ -28,7 +28,7 @@ const HandleSearch = (e)=>{
         setResult(`${search} is not found in the list`)
     }
 
-
+    setSearch("")
 }
 
 
