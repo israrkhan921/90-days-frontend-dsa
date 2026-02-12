@@ -1,10 +1,11 @@
 import React from 'react'
-import ArrayTool2 from './components/ArrayTool2'
+import SearchItem from './components/SearchItem'
 
 const App = () => {
   return (
     <div>
-      <ArrayTool2/>
+
+      <SearchItem />
     </div>
   )
 }
