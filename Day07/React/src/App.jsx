@@ -1,11 +1,10 @@
 import React from 'react'
-import SearchItem from './components/SearchItem'
+import ControlledInputs from './components/ControlledInputs'
 
 const App = () => {
   return (
     <div>
-
-      <SearchItem />
+      <ControlledInputs />
     </div>
   )
 }
