@@ -1,10 +1,10 @@
 import React from 'react'
-import ControlledInputs from './components/ControlledInputs'
-
+import PostSorterApp from './components/PostSorterApp'
 const App = () => {
   return (
     <div>
-      <ControlledInputs />
+
+      <PostSorterApp />
     </div>
   )
 }
