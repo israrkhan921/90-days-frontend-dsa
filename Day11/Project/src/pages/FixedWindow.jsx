@@ -76,8 +76,6 @@ function FixedWindow() {
   }
 
   return (
-
-    // give best design and styles with tailwind css:
     <div className="p-6 max-w-2xl mx-auto bg-white rounded-lg shadow-md">
       <h2 className="text-2xl font-bold mb-4 text-gray-800">Fixed Sliding Window - Max Subarray Sum</h2>
 
